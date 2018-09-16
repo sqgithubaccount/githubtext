@@ -3,4 +3,7 @@
 
 git is a free software
 
-text git diff 
+text git diff
+
+distributed under the GPL
+
